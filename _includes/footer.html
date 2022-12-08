@@ -27,6 +27,13 @@
       {% endfor %}
     {% endif %}
 
+    {% if site.footer.links %}
+      {% for link in site.footer.links %}
+        {% if link.label and link.url %}
+          <a 🔔 **[Newsletter](https://docs.google.com/forms/d/e/1FAIpQLSeGiRvHdq-_eL7PFWXI0oLYUMBkaFyGqTRAAOTwU-b3aM3PBg/viewform)** </a></li>
+        {% endif %}
+      {% endfor %}
+    {% endif %}
 
   <div class="copyright">
     {% if site.copyright %}
