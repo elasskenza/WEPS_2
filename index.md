@@ -8,6 +8,7 @@ image:
   path: /assets/WEPS.png
   thumbnail: /assets/WEPS.png
   label: "We are WEPS"
+  width: 50%;
   url: "[https://unsplash.com](https://elasskenza.github.io/WEPS_2/we-are-weps/)"
 categories:
   - Markup
@@ -17,10 +18,6 @@ elements:
   - formatting
   - html
   - markup  
-
-.page-image img {
-    width: 50%;
-}
 ---
 
 
