@@ -17,6 +17,10 @@ elements:
   - formatting
   - html
   - markup  
+
+.page-image img {
+    width: 50%;
+}
 ---
 
 
