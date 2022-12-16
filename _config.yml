@@ -138,4 +138,8 @@ footer:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
       url: "mailto:womeninecon.paris.saclay@gmail.com"
+    - label: "Newsletter"
+      icon: "fa-solid fa-scroll"
+      url: "https://docs.google.com/forms/d/e/1FAIpQLSeGiRvHdq-_eL7PFWXI0oLYUMBkaFyGqTRAAOTwU-b3aM3PBg/viewform"      
+  
 
