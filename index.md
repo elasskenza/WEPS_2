@@ -4,12 +4,6 @@ title: "Women in Economics Paris and Saclay"
 limit: 10
 show_excerpts: true
 entries_layout: list
-image: 
-  path: /assets/WEPS.png
-  thumbnail: /assets/WEPS.png
-  label: "We are WEPS"
-  width: 50%;
-  url: "[https://unsplash.com](https://elasskenza.github.io/WEPS_2/we-are-weps/)"
 categories:
   - Markup
 elements:
